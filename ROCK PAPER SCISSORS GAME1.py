@@ -91,9 +91,9 @@ print("Player's Score is " + str(player_score))
 print("Computer's Score is " + str(computer_score))
 
 if player_score > computer_score:
-    print("You have won this Rock-Paper-Scissor Game!")
+    print("You have won this Rock-Paper-Scissors Game!")
 elif player_score < computer_score:
-    print("You have lost this Rock-Paper-Scissor Game!")
+    print("You have lost this Rock-Paper-Scissors Game!")
 else:
     print("The Game is tied!")
 
