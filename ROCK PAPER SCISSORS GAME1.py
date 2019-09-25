@@ -87,7 +87,7 @@ while True:
 
 # Announcing Result.
 print("----- Result Summary --------------")
-print("Player's Score is " + str(player_score))
+print("Your Score is " + str(player_score))
 print("Computer's Score is " + str(computer_score))
 
 if player_score > computer_score:
